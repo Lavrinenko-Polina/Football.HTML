@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+background-image: url(https://img3.akspic.ru/crops/8/3/6/0/20638/20638-olimpijskij_stadion-sportivnye_obekty-atmosfera-futbol-futbolnoe_pole-1920x1080.jpg)
+}
+.modal-body{
+    color: rgb(0, 0, 0);
+    background-size: 100%;
+    height: 300px;
+    background-image: url(https://xsport.ua/upload/iblock/b4a/b4a7db4201e1ac9bee466ca3490b93d1.jpg);
+}
+.container{
+    border: 2px black;
+    display: flex;
+    backdrop-filter: blur(10px);
+}
+.card{
+    
+    margin: 45px;
+}
+.modal{
+    margin: auto;
+}
+.card-body{
+    text-align: center;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.modal-title{
+    text-align: center;
+}
+.accordion-item{
+    width: 700px;
+    justify-content: center;
+}
+.accordion-accordion-flush{
+    
+    justify-content: center
+}
